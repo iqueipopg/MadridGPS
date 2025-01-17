@@ -27,8 +27,7 @@ MadridGPS allows users to:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/MadridGPS.git
-cd MadridGPS
+git clone https://github.com/iqueipopg/MadridGPS.git
 ```
 
 ### 2️⃣ Unzip the Data Folder
