@@ -8,7 +8,7 @@ This project was developed as part of a **Mathematical Engineering and AI** cour
 
 ## 📜 Table of Contents
 - [📌 Project Overview](#-project-overview)
-- [🛠️ Installation](#-installation)
+- [🛠️ Installation](#️-installation)
 - [⚙️ How It Works](#-how-it-works)
 - [📂 Project Structure](#-project-structure)
 - [🖥️ Technologies Used](#-technologies-used)
