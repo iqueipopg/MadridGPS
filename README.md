@@ -104,7 +104,7 @@ This project was developed as part of the **Mathematical Engineering and AI** pr
 - **Open-source contributors** whose work made this possible.
 
 ### 👨‍💻 Developers:
-- **Ignacio Queipo de Llano Pérez-Gascón**
 - **Eugenio Ribón Novoa**
+- **Ignacio Queipo de Llano Pérez-Gascón**
 
 We extend our gratitude to all **open-source projects** that contributed to the development of **MadridGPS**. 🚀
